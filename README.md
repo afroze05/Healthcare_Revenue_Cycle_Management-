@@ -5,7 +5,7 @@ This repository contains a complete data engineering solution for Healthcare Rev
 Here, data is sourced from hospital databases and monthly insurance claim files, processed with Python, and loaded into Google BigQuery for rich analytics and reporting.
 
 **Directory Structure:**
-<img width="1000" height="828" alt="image" src="https://github.com/user-attachments/assets/63b7b9d3-cfa3-42f0-a98a-2945c5541f65" />
+<img width="700" height="728" alt="image" src="https://github.com/user-attachments/assets/63b7b9d3-cfa3-42f0-a98a-2945c5541f65" />
 
 
 **1. Environment Setup:**
