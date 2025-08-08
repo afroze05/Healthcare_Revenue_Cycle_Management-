@@ -5,7 +5,8 @@ This repository contains a complete data engineering solution for Healthcare Rev
 Data is sourced from hospital databases and monthly insurance claim files, processed using Python, and loaded into Google BigQuery for high-performance analytics and reporting.
 
 **Project Overview**
-`HEALTHCARE REV .../
+`
+HEALTHCARE REV .../
 ├── Data/
 │   ├── claims/
 │   │   ├── hospital1_claim_data.csv
